@@ -1,2 +1,2 @@
-Do something great
+Do something Great!
 ===
