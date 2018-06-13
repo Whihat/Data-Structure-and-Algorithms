@@ -1,2 +1,1 @@
-# Data-Structure-and-Algorithms
-Data structure and Algorithms
+#The algorithm Design MANUAL
