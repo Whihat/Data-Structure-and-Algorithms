@@ -54,7 +54,7 @@ _FeedBack_: Nodes in linked lists are not stored in contiguous blocks of memory.
 
 ### Question 9
 Which of the following trees are _perfectly_ complete binary search trees?  
-![screenshot15][https://github.com/Whihat/Data-Structure-and-Algorithms/blob/master/screenshot/screenshot15.jpg]
+![screenshot15](https://github.com/Whihat/Data-Structure-and-Algorithms/blob/master/screenshot/screenshot15.jpg)
 
 My Answer: (c)  
 The correct answer is **(a),(c)**.  
@@ -63,7 +63,7 @@ _FeedBack_: In a **perfectly** complete binary search tree, all non-leaf nodes h
 
 ### Question 10
 the height of the tree is:  
-![screenshot16][https://github.com/Whihat/Data-Structure-and-Algorithms/blob/master/screenshot/screenshot16.jpg]
+![screenshot16](https://github.com/Whihat/Data-Structure-and-Algorithms/blob/master/screenshot/screenshot16.jpg)
 a. 2  
 b. 3  
 c. 8  
@@ -77,7 +77,7 @@ _FeedBack_: the height of a binary search tree is ***the number of edges*** betw
 ## Week 4: Week 4: Deletion in BSTs & Balanced Trees
 
 ### Question 9
-![screenshot17][https://github.com/Whihat/Data-Structure-and-Algorithms/blob/master/screenshot/screenshot17.jpg]
+![screenshot17](https://github.com/Whihat/Data-Structure-and-Algorithms/blob/master/screenshot/screenshot17.jpg)
 
 My Answer: (a) [Do again!]  
 The correct answer is **(d)**.  
@@ -86,7 +86,7 @@ _FeedBack_: When we insert 19 into the given AVL tree, it becomes the left child
 
 ### Question 11
 Which of the following AVL trees is formed when we insert keys 9, 24, 13, 27, 30, 17, 19, and 22 (in that order) into an initially empty AVL tree?  
-![screenshot18][https://github.com/Whihat/Data-Structure-and-Algorithms/blob/master/screenshot/screenshot18.jpg]
+![screenshot18](https://github.com/Whihat/Data-Structure-and-Algorithms/blob/master/screenshot/screenshot18.jpg)
 [Do it again!]  
 The correct answer is **(a)**.  
 
